@@ -1,0 +1,21 @@
+# Maven build output
+javafx-batch-cropper/javafx-batch-cropper/target/
+
+# Local Maven installation (use system Maven or download separately)
+apache-maven-3.9.15-bin/
+
+# Built application (distributed via GitHub Releases)
+dist/
+*.zip
+
+# Scratch files
+/BatchCropperApp.java
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
